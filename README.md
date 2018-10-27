@@ -11,7 +11,7 @@ I will design and code a resume website to display my projects, resume, and prof
 | - | ------------- | --------------- | --------------- | ------------- |
 | 1 | Learn HTML, CSS, JavaScript | 5 Hours | 10/28/2018 |  |
 | 2 | Code page (will be only one page) | 5 Hours | 11/2/2018 | Navigation bar |  |
-| 3 | Purchase web url  | 1 Hours | 11/15/2018 |  |
+| 3 | Purchase web url  | 1 Hour | 11/15/2018 |  |
 
 ### Technical Slack
 * HTML
