@@ -1,6 +1,8 @@
 # Francis' Personal Website
 Francis Indaheng, Fall 2018 VCG Capstone Project
 
+TEST
+
 ### Description
 
 I will design and code a portfolio website to display my projects, resume, and professional interests. Through this project, I hope to learn HTML, CSS, JavaScript, and basic front- and back-end web development. The way I hope this website to function is to help recruiters visualize my resume in a "prettier" environment. That is, a more colorful, interactive, and less cramped way of viewing my various experiences.
