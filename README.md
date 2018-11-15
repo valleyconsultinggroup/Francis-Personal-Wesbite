@@ -3,7 +3,7 @@ Francis Indaheng, Fall 2018 VCG Capstone Project
 
 ### Description
 
-I will design and code a resume website to display my projects, resume, and professional interests. Through this project, I hope to learn HTML, CSS, JavaScript, and basic front- and back-end web development.
+I will design and code a portfolio website to display my projects, resume, and professional interests. Through this project, I hope to learn HTML, CSS, JavaScript, and basic front- and back-end web development. The way I hope this website to function is to help recruiters visualize my resume in a "prettier" environment. That is, a more colorful, interactive, and less cramped way of viewing my various experiences.
 
 ### Timeline
 
@@ -13,9 +13,9 @@ I will design and code a resume website to display my projects, resume, and prof
 | 2 | Code introduction | 2 Hours | 10/30/2018 |  |
 | 3 | Code education | 1 Hours | 10/31/2018 |  |
 | 4 | Code work experience | 1 Hours | 11/2/2018 |  |
-| 5 | Code awards and achievements | 2 Hours | 11/5/2018 |  |
+| 5 | Code awards | 2 Hours | 11/5/2018 |  |
 | 6 | Code navigation bar | 2 Hours | 11/7/2018 |  |
-| 7 | Purchase web url  | 1 Hour | 11/15/2018 |  |
+| 7 | Set up web url  | 1 Hour | 11/15/2018 |  |
 
 ### Technical Slack
 **TODO**: Describe the languages, libraries, frameworks, and tools that went into your project. Make sure to add a brief description of its utility, unlike the list below.
